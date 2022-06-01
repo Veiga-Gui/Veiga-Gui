@@ -1,10 +1,10 @@
 <div align="center">
   
-## ![image](https://user-images.githubusercontent.com/105989776/171406722-cb0a5af9-12f7-494d-8e4e-c86a4a4a9890.png) Hello, I’m Guilherme Veiga, a Civil Engineering and TI student ![image](https://user-images.githubusercontent.com/105989776/171406583-4df2caae-415e-4af4-888b-605d007a5883.png)
+##  <img align="center" alt="Gui-Aceno" height="100" width="100" src="https://user-images.githubusercontent.com/105989776/171419904-d31350c0-79b9-40f5-ad74-b171b3902008.png"> Hello, I’m Guilherme Veiga, a Civil Engineering and TI student  <img align="center" alt="Gui-PC" height="100" width="100" src="https://user-images.githubusercontent.com/105989776/171419497-108ba7bf-921c-4164-9d60-ab79cadb0a17.png">
 <br>
 
  </div>
- 
+
 - 📈 - I’m interested in learning a A LOT of programming fields and languages
 - 🐍 - I’m currently learning Python focused on Data Science, discovering the world of programming :) 
 - 📧 - You can reach me on veigacareca@gmail.com
@@ -19,10 +19,10 @@
 </div>
   
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
   ##
