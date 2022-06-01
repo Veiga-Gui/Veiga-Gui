@@ -1,6 +1,6 @@
 <div align="center">
   
-##  <img align="center" alt="Gui-Aceno" height="80" width="80" src="https://user-images.githubusercontent.com/105989776/171419904-d31350c0-79b9-40f5-ad74-b171b3902008.png"> Hello, I’m Guilherme Veiga, a Civil Engineering and TI student  <img align="center" alt="Gui-PC" height="80" width="80" src="https://user-images.githubusercontent.com/105989776/171419497-108ba7bf-921c-4164-9d60-ab79cadb0a17.png">
+##  <img align="center" alt="Gui-Aceno" height="80" width="80" src="https://user-images.githubusercontent.com/105989776/171419904-d31350c0-79b9-40f5-ad74-b171b3902008.png"> I’m Guilherme Veiga, a Civil Engineering and TI student <img align="center" alt="Gui-PC" height="80" width="80" src="https://user-images.githubusercontent.com/105989776/171419497-108ba7bf-921c-4164-9d60-ab79cadb0a17.png">
 <br>
 
  </div>
